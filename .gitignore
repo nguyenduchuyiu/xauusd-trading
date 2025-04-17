@@ -2,3 +2,4 @@ data/*
 !data/*.txt
 !data/*/*.txt
 test.ipynb
+save
