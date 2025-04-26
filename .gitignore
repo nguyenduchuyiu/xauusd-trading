@@ -3,3 +3,5 @@ data/*
 !data/*/*.txt
 test.ipynb
 save
+*/__pycache__
+

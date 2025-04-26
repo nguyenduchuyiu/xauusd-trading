@@ -1,1 +1,1 @@
-# xauusd-trading
+# stock-trading
