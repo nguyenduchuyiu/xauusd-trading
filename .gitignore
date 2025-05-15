@@ -4,4 +4,5 @@ data/*
 test.ipynb
 save
 */__pycache__
-
+*.csv
+*.dat
